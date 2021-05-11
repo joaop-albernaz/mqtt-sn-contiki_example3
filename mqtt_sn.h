@@ -34,7 +34,7 @@
 #include "etimer.h"
 #include "ctimer.h"
 #include "list.h"
-#include "net/ip/uip-debug.h"
+#include "net/uip-debug.h"
 #include "sys/ctimer.h"
 #include <stdbool.h>
 
