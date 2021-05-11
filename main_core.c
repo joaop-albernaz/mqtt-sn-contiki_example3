@@ -29,7 +29,7 @@
 #include "lib/random.h"
 #include "clock.h"
 #include "sys/ctimer.h"
-#include "net/ip/uip.h"
+#include "net/uip.h"
 #include "net/ipv6/uip-ds6.h"
 #include "mqtt_sn.h"
 #include "dev/leds.h"
